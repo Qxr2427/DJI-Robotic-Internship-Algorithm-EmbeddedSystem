@@ -1,0 +1,8 @@
+prefix=/home/robomaster/robomaster/homework/src/practice/cmake-build-debug/devel
+
+Name: practice
+Description: Description of practice
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robomaster/robomaster/homework/src/practice/cmake-build-debug/devel/lib 
+Requires: 

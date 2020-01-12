@@ -1,0 +1,2 @@
+map_server:simple_msgs:simple_planner:simple_robot:simple_tf:simple_visualization
+-DCATKIN_DEVEL_PREFIX=/home/robomaster/robomaster/sc_code/devel -DCMAKE_INSTALL_PREFIX=/home/robomaster/robomaster/sc_code/install -G Unix Makefiles

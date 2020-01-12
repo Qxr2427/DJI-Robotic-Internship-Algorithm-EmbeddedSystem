@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/robomaster/robomaster/sc_localization_ws/devel_isolated/apriltag_ros/lib;/opt/ros/kinetic/lib")

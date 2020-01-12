@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robomaster/robomaster/sc_localization_ws/install_isolated/setup.sh

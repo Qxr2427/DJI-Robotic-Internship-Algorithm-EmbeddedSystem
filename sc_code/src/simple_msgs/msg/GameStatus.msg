@@ -1,0 +1,11 @@
+RegionOccupy[] region_occupy
+CastleEnergy[] castle_energy
+uint8 red_position
+uint8 blue_position
+uint8 red_step_move
+uint8 blue_step_move
+int16 red_score
+int16 blue_score
+uint8 round_remain_tick
+uint8 round_remain_cnt
+uint8 round_team

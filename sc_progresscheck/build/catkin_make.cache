@@ -1,0 +1,2 @@
+practice
+-DCATKIN_DEVEL_PREFIX=/home/robomaster/robomaster/homework/devel -DCMAKE_INSTALL_PREFIX=/home/robomaster/robomaster/homework/install -G Unix Makefiles

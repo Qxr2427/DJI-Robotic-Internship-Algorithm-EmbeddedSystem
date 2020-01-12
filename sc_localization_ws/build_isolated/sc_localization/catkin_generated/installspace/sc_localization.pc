@@ -1,0 +1,8 @@
+prefix=/home/robomaster/robomaster/sc_localization_ws/install_isolated
+
+Name: sc_localization
+Description: Description of sc_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robomaster/robomaster/sc_localization_ws/install_isolated/lib 
+Requires: 

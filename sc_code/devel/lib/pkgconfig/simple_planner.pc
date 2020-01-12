@@ -1,0 +1,8 @@
+prefix=/home/robomaster/robomaster/sc_code/devel
+
+Name: simple_planner
+Description: Description of simple_planner
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/robomaster/robomaster/sc_code/devel/lib 
+Requires: 

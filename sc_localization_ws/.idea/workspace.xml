@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0e4704a-5fa3-4f49-8cbc-f43ee9804dc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/apriltag/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/config/settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/config/settings.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/config/tags.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/config/tags.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/launch/continuous_detection.launch" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/launch/continuous_detection.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/scripts/analyze_image" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/scripts/analyze_image" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/src/common_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/apriltag_ros/apriltag_ros/src/common_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sc_localization/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sc_localization/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sc_localization/launch/april_odom.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sc_localization/odom_update_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/sc_localization/odom_update_node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sc_localization/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sc_localization/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usb_cam/nodes/usb_cam_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/usb_cam/nodes/usb_cam_node.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/sc_localization" />
+  </component>
+  <component name="ProjectId" id="1Ou4IAITZup1lNT2f1mZmmDC3gw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0e4704a-5fa3-4f49-8cbc-f43ee9804dc3" name="Default Changelist" comment="" />
+      <created>1561004171312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561004171312</updated>
+      <workItem from="1561004175754" duration="2006000" />
+      <workItem from="1561011541463" duration="10439000" />
+      <workItem from="1561027180366" duration="1951000" />
+      <workItem from="1561090650616" duration="450000" />
+      <workItem from="1561446357500" duration="2367000" />
+      <workItem from="1561968475121" duration="4000" />
+      <workItem from="1562060108141" duration="1213000" />
+      <workItem from="1562136368970" duration="1199000" />
+      <workItem from="1562206014348" duration="1000" />
+      <workItem from="1562207874352" duration="612000" />
+      <workItem from="1562211760009" duration="2000" />
+      <workItem from="1564814072613" duration="2111000" />
+      <workItem from="1564916941753" duration="1008000" />
+      <workItem from="1564967732564" duration="601000" />
+      <workItem from="1564983470317" duration="642000" />
+      <workItem from="1565405263097" duration="2940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

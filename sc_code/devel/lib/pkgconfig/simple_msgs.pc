@@ -1,0 +1,8 @@
+prefix=/home/robomaster/robomaster/sc_code/devel
+
+Name: simple_msgs
+Description: Description of simple_msgs
+Version: 1.0.0
+Cflags: -I/home/robomaster/robomaster/sc_code/devel/include
+Libs: -L/home/robomaster/robomaster/sc_code/devel/lib 
+Requires: 

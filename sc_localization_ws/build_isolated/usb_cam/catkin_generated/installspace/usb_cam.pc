@@ -1,0 +1,8 @@
+prefix=/home/robomaster/robomaster/sc_localization_ws/install_isolated
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/robomaster/robomaster/sc_localization_ws/install_isolated/include
+Libs: -L/home/robomaster/robomaster/sc_localization_ws/install_isolated/lib -lusb_cam
+Requires: 
